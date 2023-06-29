@@ -1,0 +1,36 @@
+@media screen and (min-width:768px ) and (max-width: 992px){
+    body{
+        background-image: linear-gradient(rgb(59, 59, 240) , aqua );
+    }
+    #login{
+        width: 90vw;
+
+    }
+    #imagen{
+        float: left;
+        width: 30%;
+        height: 100%;
+    }
+    #formulário{
+        float: right;
+        width: 70%;
+    }
+}
+
+@media screen and (min-width: 992px){
+    body{
+        background-image: linear-gradient(rgb(59, 59, 240) , aqua );
+    }
+    #login{
+        width: 950px;
+    }
+    #imagen{
+        float: left;
+        width: 50%;
+        height: 100%;
+    }
+    #formulário{
+        float: right;
+        width: 50%;
+    }
+}

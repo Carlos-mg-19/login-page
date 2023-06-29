@@ -27,6 +27,9 @@ main{
     height: 500px;
     border-radius: 20px;
     box-shadow: 1px 1px 7px 0px black;
+
+    transition: width 0.2s, height 0.2s;
+    transition-timing-function: ease;
 }
 
 #imagen{
