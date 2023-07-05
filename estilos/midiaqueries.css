@@ -33,4 +33,10 @@
         float: right;
         width: 50%;
     }
+    #formulário h1{
+        font-size: 2em;
+    }
+    #formulário p{
+        font-size: 1.2em;
+    }
 }
